@@ -1,3 +1,3 @@
 # SwiftAlgorithms
 
-1. [TwoSum](./Easy/TwoSum.playground)
+1. [TwoSum](./Easy/TwoSum)
