@@ -9,12 +9,12 @@ Welcome to SwiftAlgorithms! This repository contains a collection of algorithms 
 ### Easy
 1. [Two Sum](./Easy/TwoSum)
    - Description: Find two numbers in an array that sum up to a specific target.
-   - Implementation: [TwoSum.swift](./Easy/TwoSum)
+   - Implementation: [TwoSum.swift](./Easy/TwoSum/TwoSum.swift)
 
 ### Medium
 2. [Add Two Numbers (Linked Lists)](./Medium/AddTwoNumbers)
    - Description: Add two numbers represented by linked lists.
-   - Implementation: [AddTwoNumbers.swift](./Medium/AddTwoNumbers)
+   - Implementation: [AddTwoNumbers.swift](./Medium/AddTwoNumbers/AddTwoNumbers.swift)
 
 
 ## Contribution
