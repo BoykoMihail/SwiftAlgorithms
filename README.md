@@ -7,14 +7,17 @@ Welcome to SwiftAlgorithms! This repository contains a collection of algorithms 
 ## Algorithms
 
 ### Easy
-1. [Two Sum](./Easy/TwoSum)
+1. [Two Sum](./Easy/Two%20Sum)
    - Description: Find two numbers in an array that sum up to a specific target.
-   - Implementation: [TwoSum.swift](./Easy/TwoSum/TwoSum.swift)
+   - Implementation: [TwoSum.swift](./Easy/Two%20Sum/TwoSum.swift)
 
 ### Medium
-2. [Add Two Numbers (Linked Lists)](./Medium/AddTwoNumbers)
+1. [Add Two Numbers (Linked Lists)](./Medium/AddTwoNumbers)
    - Description: Add two numbers represented by linked lists.
-   - Implementation: [AddTwoNumbers.swift](./Medium/AddTwoNumbers/AddTwoNumbers.swift)
+   - Implementation: [AddTwoNumbers.swift](./Medium/Add%20Two%20Numbers/AddTwoNumbers.swift)
+2. [Longest Substring Without Repeating Characters](./Medium/Longest%20Substring%20Without%20Repeating%20Characters)
+   - Description: Find the length of the longest substring without repeating characters.
+   - Implementation: [AddTwoNumbers.swift](./Medium/Add%20Two%20Numbers/AddTwoNumbers.swift)
 
 
 ## Contribution
