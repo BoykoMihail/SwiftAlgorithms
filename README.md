@@ -12,7 +12,7 @@ Welcome to SwiftAlgorithms! This repository contains a collection of algorithms 
    - Implementation: [TwoSum.swift](./Easy/Two%20Sum/TwoSum.swift)
 
 ### Medium
-1. [Add Two Numbers (Linked Lists)](./Medium/AddTwoNumbers)
+1. [Add Two Numbers (Linked Lists)](./Medium/Add%20Two%20Numbers)
    - Description: Add two numbers represented by linked lists.
    - Implementation: [AddTwoNumbers.swift](./Medium/Add%20Two%20Numbers/AddTwoNumbers.swift)
 2. [Longest Substring Without Repeating Characters](./Medium/Longest%20Substring%20Without%20Repeating%20Characters)
