@@ -19,6 +19,11 @@ Welcome to SwiftAlgorithms! This repository contains a collection of algorithms 
    - Description: Find the length of the longest substring without repeating characters.
    - Implementation: [AddTwoNumbers.swift](./Medium/Add%20Two%20Numbers/AddTwoNumbers.swift)
 
+### Hard
+1. [Median of Two Sorted Arrays](./Hard/Median%20of%20Two%20Sorted%20Arrays)
+   - Description: Find the median of the two sorted arrays.
+   - Implementation: [TwoSum.swift](././Hard/Median%20of%20Two%20Sorted%20Arrays/MedianofTwoSortedArrays.swift)
+
 
 ## Contribution
 
