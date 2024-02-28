@@ -14,18 +14,18 @@ Welcome to SwiftAlgorithms! This repository contains a collection of algorithms 
 ### Medium
 1. [Add Two Numbers (Linked Lists)](./Medium/Add%20Two%20Numbers)
    - Description: Add two numbers represented by linked lists.
-   - Implementation: [AddTwoNumbers.swift](./Medium/Add%20Two%20Numbers/AddTwoNumbers.swift)
+   - Implementation: [Add Two Numbers](./Medium/Add%20Two%20Numbers/AddTwoNumbers.swift)
 2. [Longest Substring Without Repeating Characters](./Medium/Longest%20Substring%20Without%20Repeating%20Characters)
    - Description: Find the length of the longest substring without repeating characters.
-   - Implementation: [LongestSubstringWithoutRepeatingCharacters.swift](./Medium/Add%20Two%20Numbers/LongestSubstringWithoutRepeatingCharacters.swift)
+   - Implementation: [Longest Substring Without Repeating Characters](./Medium/Longest%20Substring%20Without%20Repeating%20Characters/LongestSubstringWithoutRepeatingCharacters.swift)
 3. [Longest Palindromic Substrings](./Medium/Longest%20Palindromic%20Substring)
    - Description: Return the longest palindromic substring in sring.
-   - Implementation: [LongestPalindromicSubstrin.swift](./Medium/Longest%20Palindromic%20Substring/LongestPalindromicSubstrin.swift) 
+   - Implementation: [Longest Palindromic Substrin](./Medium/Longest%20Palindromic%20Substring/LongestPalindromicSubstrin.swift) 
 
 ### Hard
 1. [Median of Two Sorted Arrays](./Hard/Median%20of%20Two%20Sorted%20Arrays)
    - Description: Find the median of the two sorted arrays.
-   - Implementation: [MedianofTwoSortedArrays.swift](././Hard/Median%20of%20Two%20Sorted%20Arrays/MedianofTwoSortedArrays.swift)
+   - Implementation: [Median of Two Sorted Arrays](././Hard/Median%20of%20Two%20Sorted%20Arrays/MedianofTwoSortedArrays.swift)
 
 
 ## Contribution
