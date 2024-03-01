@@ -1,3 +1,9 @@
+//
+//  ZigzagConversion.swift
+//
+//
+//  Created by Mihail Boyko on 1/03/24.
+//
 
 class Solution {
     /**
