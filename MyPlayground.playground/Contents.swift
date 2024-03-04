@@ -1,57 +1,43 @@
 
 class Solution {
     /**
-     The string "PAYPALISHIRING" is written in a zigzag pattern on a given number of rows like this: (you may want to display this pattern in a fixed font for better legibility)
+     Given a signed 32-bit integer x, return x with its digits reversed. If reversing x causes the value to go outside the signed 32-bit integer range [-231, 231 - 1], then return 0.
 
-     P   A   H   N
-     A P L S I I G
-     Y   I   R
-     And then read line by line: "PAHNAPLSIIGYIR"
-
-     Write the code that will take a string and make this conversion given a number of rows:
+     Assume the environment does not allow you to store 64-bit integers (signed or unsigned).
      
     Example 1:
-     Input: s = "PAYPALISHIRING", numRows = 4
-     Output: "PINALSIGYAHRPI"
-     Explanation:
-     P     I    N
-     A   L S  I G
-     Y A   H R
-     P     I
+     Input: x = 123
+     Output: 321
+     
+    Example 2:
+     Input: x = -123
+     Output: -321
      */
-    /// O(n)
-    static func convert(_ s: String, _ numRows: Int) -> String {
-        guard numRows > 1 && s.count > 2 else {
-            return s
-        }
+    /// O(log(x))
+    static func reverse(_ x: Int) -> Int {
+        var num = x
+        var reverstNum = 0
         
-        var resultArray = Array(repeating: "", count: min(numRows, s.count))
-        var isGoungDown = false
-        var curentIndex = 0
-        
-        for char in s {
-            resultArray[curentIndex].append(char)
-            if curentIndex == 0 || curentIndex == numRows - 1 {
-                isGoungDown = !isGoungDown
+        while num != 0 {
+            let digit = num % 10
+            num /= 10
+            
+            if reverstNum > Int32.max / 10 || (reverstNum == Int32.max / 10 && digit > 7) {
+                return 0
             }
             
-            curentIndex += isGoungDown ? 1 : -1
+            if reverstNum < Int32.min / 10 || (reverstNum == Int32.min / 10 && digit < -8) {
+                return 0
+            }
+            
+            reverstNum = reverstNum*10 + digit
         }
         
-        var result = ""
-        for str in resultArray {
-            result.append(str)
-        }
-        
-        return result
+        return reverstNum
     }
 }
 
 // Example usage:
-let s = "PAYPALISHIRING"
-let numRows = 3
-print(Solution.convert(s, numRows) == "PAHNAPLSIIGYIR")
-let s2 = "ABC"
-let numRows2 = 1
-print(Solution.convert(s2, numRows2) == "ABC")
+print(Solution.reverse(123) == 321)
+print(Solution.reverse(-845) == -548)
 

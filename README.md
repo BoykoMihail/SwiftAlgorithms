@@ -24,6 +24,9 @@ Welcome to SwiftAlgorithms! This repository contains a collection of algorithms 
 4. [Zigzag Conversion](./Medium/Zigzag%20Conversion)
    - Description: The string is written in a zigzag pattern on a given number of rows. Write the code that will take a string and make this conversion.
    - Implementation: [Longest Palindromic Substrin](./Medium/Zigzag%20Conversion/ZigzagConversion.swift) 
+5. [Reverse Integer](./Medium/Reverse%20Integer)
+   - Description: Given a signed 32-bit integer x, return x with its digits reversed.
+   - Implementation: [Longest Palindromic Substrin](./Medium/Reverse%20Integer/ReverseInteger.swift) 
 
 ### Hard
 1. [Median of Two Sorted Arrays](./Hard/Median%20of%20Two%20Sorted%20Arrays)
