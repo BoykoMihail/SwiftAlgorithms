@@ -1,3 +1,10 @@
+//
+//  Atoi.swift
+//
+//
+//  Created by Mihail Boyko on 6/03/24.
+//
+
 
 class Solution {
     /**
