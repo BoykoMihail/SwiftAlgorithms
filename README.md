@@ -27,9 +27,9 @@ Welcome to SwiftAlgorithms! This repository contains a collection of algorithms 
 5. [Reverse Integer](./Medium/Reverse%20Integer)
    - Description: Given a signed 32-bit integer x, return x with its digits reversed.
    - Implementation: [Reverse Integer](./Medium/Reverse%20Integer/ReverseInteger.swift) 
-6. [Reverse Integer](./Medium/String%20to%20Integer%20(atoi))
+6. [String to Integer (atoi)](./Medium/String%20to%20Integer%20(atoi))
    - Description: Implement the myAtoi(string s) function, which converts a string to a 32-bit signed integer (similar to C/C++'s atoi function).
-   - Implementation: [Reverse Integer](./Medium/String%20to%20Integer%20(atoi)/Atoi.swift) 
+   - Implementation: [String to Integer (atoi)](./Medium/String%20to%20Integer%20(atoi)/Atoi.swift) 
 
 ### Hard
 1. [Median of Two Sorted Arrays](./Hard/Median%20of%20Two%20Sorted%20Arrays)
