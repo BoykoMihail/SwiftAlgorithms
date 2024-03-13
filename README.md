@@ -37,8 +37,10 @@ Welcome to SwiftAlgorithms! This repository contains a collection of algorithms 
 ### Hard
 1. [Median of Two Sorted Arrays](./Hard/Median%20of%20Two%20Sorted%20Arrays)
    - Description: Find the median of the two sorted arrays.
-   - Implementation: [Median of Two Sorted Arrays](././Hard/Median%20of%20Two%20Sorted%20Arrays/MedianofTwoSortedArrays.swift)
-
+   - Implementation: [Median of Two Sorted Arrays](./Hard/Median%20of%20Two%20Sorted%20Arrays/MedianofTwoSortedArrays.swift)
+2. [Regular Expression Matching](./Hard/Regular%20Expression%20Matching)
+   - Description: Implement regular expression matching with support for '.' and '*'.
+   - Implementation: [Regular Expression Matching](./Hard/Regular%20Expression%20Matching/RegularExpressionMatching.swift)
 
 ## Contribution
 

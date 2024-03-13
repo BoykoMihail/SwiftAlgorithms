@@ -1,3 +1,10 @@
+//
+//  RegularExpressionMatching.swift
+//
+//
+//  Created by Mihail Boyko on 13/03/24.
+//
+
 
 class Solution {
     /**
@@ -53,4 +60,3 @@ class Solution {
 let s = "aa"
 let p = "a*"
 print(Solution.isMatch(s, p) == true) // Output: true
-
