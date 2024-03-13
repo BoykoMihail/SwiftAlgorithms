@@ -10,6 +10,9 @@ Welcome to SwiftAlgorithms! This repository contains a collection of algorithms 
 1. [Two Sum](./Easy/Two%20Sum)
    - Description: Find two numbers in an array that sum up to a specific target.
    - Implementation: [Two Sum](./Easy/Two%20Sum/TwoSum.swift)
+2. [Palindrome Number](./Easy/Palindrome%20Number)
+   - Description: Given an integer x, return true if x is a palindrome, and false otherwise.
+   - Implementation: [Palindrome Number](./Easy/Palindrome%20Number/PalindromeNumber.swift)
 
 ### Medium
 1. [Add Two Numbers (Linked Lists)](./Medium/Add%20Two%20Numbers)
