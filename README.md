@@ -13,6 +13,9 @@ Welcome to SwiftAlgorithms! This repository contains a collection of algorithms 
 2. [Palindrome Number](./Easy/Palindrome%20Number)
    - Description: Given an integer x, return true if x is a palindrome, and false otherwise.
    - Implementation: [Palindrome Number](./Easy/Palindrome%20Number/PalindromeNumber.swift)
+3. [Smallest Index With Equal Value](./Easy/Smallest%20Index%20With%20Equal%20Value)
+   - Description: Given a 0-indexed integer array nums, return the smallest index i of nums such that i mod 10 == nums[i], or -1 if such index does not exist.
+   - Implementation: [Smallest Index With Equal Value](./Easy/Smallest%20Index%20With%20Equal%20Value/SmallestIndexWithEqualValue.swift)
 
 ### Medium
 1. [Add Two Numbers (Linked Lists)](./Medium/Add%20Two%20Numbers)

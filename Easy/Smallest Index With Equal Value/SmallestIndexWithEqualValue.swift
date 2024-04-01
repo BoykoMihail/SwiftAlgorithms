@@ -1,3 +1,11 @@
+//
+//  SmallestIndexWithEqualValue.swift
+//
+//
+//  Created by Mihail Boyko on 01/04/24.
+//
+
+
 
 class Solution {
     /**
