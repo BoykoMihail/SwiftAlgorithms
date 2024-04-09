@@ -16,6 +16,9 @@ Welcome to SwiftAlgorithms! This repository contains a collection of algorithms 
 3. [Smallest Index With Equal Value](./Easy/Smallest%20Index%20With%20Equal%20Value)
    - Description: Given a 0-indexed integer array nums, return the smallest index i of nums such that i mod 10 == nums[i], or -1 if such index does not exist.
    - Implementation: [Smallest Index With Equal Value](./Easy/Smallest%20Index%20With%20Equal%20Value/SmallestIndexWithEqualValue.swift)
+4. [Remove Duplicates from Sorted Array](./Easy/Remove%20Duplicates%20from%20Sorted%20Array)
+   - Description: Given an integer x, return true if x is a palindrome, and false otherwise.
+   - Implementation: [Palindrome Number](./Easy/Remove%20Duplicates%20from%20Sorted%20Array/RemoveDuplicatesFromSortedArray.swift)
 
 ### Medium
 1. [Add Two Numbers (Linked Lists)](./Medium/Add%20Two%20Numbers)

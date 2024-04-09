@@ -1,3 +1,11 @@
+//
+//  RemoveDuplicatesFromSortedArray.swift
+//
+//
+//  Created by Mihail Boyko on 09/04/24.
+//
+
+
 
 class Solution {
     /**
