@@ -39,6 +39,9 @@ Welcome to SwiftAlgorithms! This repository contains a collection of algorithms 
 6. [String to Integer (atoi)](./Medium/String%20to%20Integer%20(atoi))
    - Description: Implement the myAtoi(string s) function, which converts a string to a 32-bit signed integer (similar to C/C++'s atoi function).
    - Implementation: [String to Integer (atoi)](./Medium/String%20to%20Integer%20(atoi)/Atoi.swift) 
+7. [Remove Duplicates from Sorted Array II](./Medium/Remove%20Duplicates%20from%20Sorted%20Array%202)
+   - Description: Implement the myAtoi(string s) function, which converts a string to a 32-bit signed integer (similar to C/C++'s atoi function).
+   - Implementation: [Remove Duplicates from Sorted Array II](./Medium/Remove%20Duplicates%20from%20Sorted%20Array%202/RemoveDuplicatesFromSortedArrayII.swift) 
 
 ### Hard
 1. [Median of Two Sorted Arrays](./Hard/Median%20of%20Two%20Sorted%20Arrays)
