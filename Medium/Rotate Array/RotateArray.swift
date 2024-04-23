@@ -1,3 +1,9 @@
+//
+//  RotateArray.swift
+//
+//
+//  Created by Mihail Boyko on 24/04/24.
+//
 
 class Solution {
     /**
@@ -46,3 +52,5 @@ print(nums == [5,6,7,1,2,3,4]) // Output: [5,6,7,1,2,3,4]
 var nums2 = [-1,-100,3,99]
 print(Solution.rotate(&nums2, 2))
 print(nums2 == [3,99,-1,-100]) // Output: [3,99,-1,-100]
+
+
