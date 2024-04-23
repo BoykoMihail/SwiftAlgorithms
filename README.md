@@ -46,8 +46,8 @@ Welcome to SwiftAlgorithms! This repository contains a collection of algorithms 
    - Description: Given an integer array nums sorted in non-decreasing order, remove some duplicates in-place such that each unique element appears at most twice.
    - Implementation: [Remove Duplicates from Sorted Array II](./Medium/Remove%20Duplicates%20from%20Sorted%20Array%202/RemoveDuplicatesFromSortedArrayII.swift) 
 8. [Rotate Array](./Medium/Rotate%20Array)
-   - Description: Given an integer array nums sorted in non-decreasing order, remove some duplicates in-place such that each unique element appears at most twice.
-   - Implementation: [Remove Duplicates from Sorted Array II](./Medium/Rotate%20Array/RotateArray.swift) 
+   - Description: Given an integer array nums, rotate the array to the right by k steps, where k is non-negative.
+   - Implementation: [Rotate Array](./Medium/Rotate%20Array/RotateArray.swift) 
 
 ### Hard
 1. [Median of Two Sorted Arrays](./Hard/Median%20of%20Two%20Sorted%20Arrays)
