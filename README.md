@@ -19,9 +19,12 @@ Welcome to SwiftAlgorithms! This repository contains a collection of algorithms 
 4. [Remove Duplicates from Sorted Array](./Easy/Remove%20Duplicates%20from%20Sorted%20Array)
    - Description: Given an integer array nums sorted in non-decreasing order, remove the duplicates in-place such that each unique element appears only once.
    - Implementation: [Remove Duplicates from Sorted Array](./Easy/Remove%20Duplicates%20from%20Sorted%20Array/RemoveDuplicatesFromSortedArray.swift)
-4. [Majority Element](./Easy/Majority%20Element)
+5. [Majority Element](./Easy/Majority%20Element)
    - Description: Given an array nums of size n, return the majority element.
    - Implementation: [Majority Element](./Easy/Majority%20Element/MajorityElement.swift)
+6. [Best Time to Buy and Sell Stock](./Easy/Best%20Time%20to%20Buy%20and%20Sell%20Stock)
+   - Description: You are given an array prices where prices[i] is the price of a given stock on the ith day.
+   - Implementation: [Best Time to Buy and Sell Stock](./Easy/Best%20Time%20to%20Buy%20and%20Sell%20Stock/BestTimeToBuyAndSellStock.swift)
 
 ### Medium
 1. [Add Two Numbers (Linked Lists)](./Medium/Add%20Two%20Numbers)
