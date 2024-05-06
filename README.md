@@ -51,6 +51,9 @@ Welcome to SwiftAlgorithms! This repository contains a collection of algorithms 
 8. [Rotate Array](./Medium/Rotate%20Array)
    - Description: Given an integer array nums, rotate the array to the right by k steps, where k is non-negative.
    - Implementation: [Rotate Array](./Medium/Rotate%20Array/RotateArray.swift) 
+9. [Best Time to Buy and Sell Stock II](./Medium/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II)
+   - Description: You are given an integer array prices where prices[i] is the price of a given stock on the ith day.
+   - Implementation: [Best Time to Buy and Sell Stock II](./Medium/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/BestTimeToBuyAndSellStockII.swift) 
 
 ### Hard
 1. [Median of Two Sorted Arrays](./Hard/Median%20of%20Two%20Sorted%20Arrays)
