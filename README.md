@@ -57,6 +57,9 @@ Welcome to SwiftAlgorithms! This repository contains a collection of algorithms 
 10. [Jump Game](./Medium/Jump%20Game)
    - Description: You are given an integer array nums. You are initially positioned at the array's first index, and each element in the array represents your maximum jump length at that position. Return true if you can reach the last index, or false otherwise.
    - Implementation: [Jump Game](./Medium/Jump%20Game/JumpGame.swift) 
+10. [Jump Game](./Medium/Jump%20Game%20II)
+   - Description: You are given a 0-indexed array of integers nums of length n. You are initially positioned at nums[0]. Return the minimum number of jumps to reach nums[n - 1]. The test cases are generated such that you can reach nums[n - 1].
+   - Implementation: [Jump Game](./Medium/Jump%20Game%20II/JumpGame2.swift) 
 
 ### Hard
 1. [Median of Two Sorted Arrays](./Hard/Median%20of%20Two%20Sorted%20Arrays)

@@ -1,3 +1,10 @@
+//
+//  JumpGame2.swift
+//
+//
+//  Created by Mihail Boyko on 08/05/24.
+//
+
 
 class Solution {
     /**
