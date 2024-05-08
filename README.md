@@ -60,6 +60,9 @@ Welcome to SwiftAlgorithms! This repository contains a collection of algorithms 
 10. [Jump Game2](./Medium/Jump%20Game%20II)
    - Description: You are given a 0-indexed array of integers nums of length n. You are initially positioned at nums[0]. Return the minimum number of jumps to reach nums[n - 1]. The test cases are generated such that you can reach nums[n - 1].
    - Implementation: [Jump Game2](./Medium/Jump%20Game%20II/JumpGame2.swift) 
+11. [H-Index](./Medium/H-Index)
+   - Description: Given an array of integers citations where citations[i] is the number of citations a researcher received for their ith paper, return the researcher's h-index.
+   - Implementation: [H-Index](./Medium/H-Index/H-Index.swift) 
 
 ### Hard
 1. [Median of Two Sorted Arrays](./Hard/Median%20of%20Two%20Sorted%20Arrays)
