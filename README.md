@@ -72,6 +72,39 @@ Welcome to SwiftAlgorithms! This repository contains a collection of algorithms 
    - Description: Implement regular expression matching with support for '.' and '*'.
    - Implementation: [Regular Expression Matching](./Hard/Regular%20Expression%20Matching/RegularExpressionMatching.swift)
 
+### Concurrency
+1. [Producer-Consumer Problem](./Concurrency/Producer-Consumer%20Problem)
+   - Description: Design a system where one or more producers generate data and place it into a buffer, and one or more consumers take data from the buffer. Ensure that the buffer never overflows and that consumers do not try to consume from an empty buffer.
+   - Implementation: [Producer-Consumer Problem](./Concurrency/Producer-Consumer%20Problem/ProducerConsumerProblem.swift)
+2. [Dining Philosophers Problem](./Concurrency/Dining%20Philosophers%20Problem)
+   - Description: Five philosophers sit around a table with a fork between each pair. They spend their time thinking and eating. However, a philosopher can only eat if they have both forks. Design a synchronization mechanism to avoid deadlock.
+   - Implementation: [Dining Philosophers Problem](./Concurrency/Dining%20Philosophers%20Problem/DiningPhilosophersProblem.swift)
+3. [Readers-Writers Problem](./Concurrency/Readers-Writers%20Problem)
+   - Description: Design a system where multiple threads can read a shared resource, but only one thread can write to it at a time. Ensure that readers do not starve writers and vice versa.
+   - Implementation: [Readers-Writers Problem](./Concurrency/Readers-Writers%20Problem/ReadersWritersProblem.swift)
+4. [Barbershop Problem](./Concurrency/Barbershop%20Problem)
+   - Description: In a barbershop with one barber, multiple customers can enter. If the barber is busy, customers wait. If there are no customers, the barber sleeps. Design a synchronization mechanism for this scenario.
+   - Implementation: [Barbershop Problem](./Concurrency/Barbershop%20Problem/BarbershopProblem.swift)
+5. [Traffic Light Intersection](./Concurrency/Traffic%20Light%20Intersection)
+   - Description: Design a traffic light system for an intersection where traffic lights change to allow vehicles from different directions to pass safely without collisions.
+   - Implementation: [Traffic Light Intersection](./Concurrency/Traffic%20Light%20Intersection/TrafficLightIntersection.swift)
+6. [Thread Pool](./Concurrency/Thread%20Pool)
+   - Description: Design a thread pool where a fixed number of threads process tasks from a queue. This ensures that the system does not get overwhelmed by too many concurrent tasks.
+   - Implementation: [Thread Pool](./Concurrency/Thread%20Pool/ThreadPool.swift)
+7. [Concurrent Map Reduce](./Concurrency/Concurrent%20Map%20Reduce)
+   - Description: Implement a concurrent map-reduce algorithm to process a large dataset in parallel.
+   - Implementation: [Thread Pool](./Concurrency/Concurrent%20Map%20Reduce/ConcurrentMapReduce.swift)
+8. [Bounded Buffer with Multiple Producers and Consumers](./Concurrency/Bounded%20Buffer%20with%20Multiple%20Producers%20and%20Consumers)
+   - Description: Extend the Producer-Consumer problem to support multiple producers and consumers with a bounded buffer.
+   - Implementation: [Bounded Buffer with Multiple Producers and Consumers](./Concurrency/Bounded%20Buffer%20with%20Multiple%20Producers%20and%20Consumers/BoundedBufferwithMultipleProducersandCnsumers.swift)
+9. [Asynchronous File Processing](./Concurrency/Asynchronous%20File%20Processing)
+   - Description: Process files asynchronously where multiple threads read from different files, process the content, and write the results to another file.
+   - Implementation: [Asynchronous File Processing](./Concurrency/Asynchronous%20File%20Processing/AsynchronousFileProcessing.swift)
+10. [Concurrent Access to Shared Resource](./Concurrency/Concurrent%20Access%20to%20Shared%20Resource)
+   - Description: Design a system where multiple threads need to safely access and modify a shared resource.
+   - Implementation: [Concurrent Access to Shared Resource](./Concurrency/Concurrent%20Access%20to%20Shared%20Resource/ConcurrentAccesstoSharedResource.swift)
+
+
 ## Contribution
 
 Contributions are welcome! Feel free to submit a pull request with your algorithm implementations or improvements.
