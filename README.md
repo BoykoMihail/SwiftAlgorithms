@@ -93,7 +93,7 @@ Welcome to SwiftAlgorithms! This repository contains a collection of algorithms 
    - Implementation: [Thread Pool](./Concurrency/Thread%20Pool/ThreadPool.swift)
 7. [Concurrent Map Reduce](./Concurrency/Concurrent%20Map%20Reduce)
    - Description: Implement a concurrent map-reduce algorithm to process a large dataset in parallel.
-   - Implementation: [Thread Pool](./Concurrency/Concurrent%20Map%20Reduce/ConcurrentMapReduce.swift)
+   - Implementation: [Concurrent Map Reduce](./Concurrency/Concurrent%20Map%20Reduce/ConcurrentMapReduce.swift)
 8. [Bounded Buffer with Multiple Producers and Consumers](./Concurrency/Bounded%20Buffer%20with%20Multiple%20Producers%20and%20Consumers)
    - Description: Extend the Producer-Consumer problem to support multiple producers and consumers with a bounded buffer.
    - Implementation: [Bounded Buffer with Multiple Producers and Consumers](./Concurrency/Bounded%20Buffer%20with%20Multiple%20Producers%20and%20Consumers/BoundedBufferwithMultipleProducersandCnsumers.swift)
